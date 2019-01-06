@@ -1,0 +1,4 @@
+ - step:
+         name: teat
+         image: python:3.6
+         command: python run.py
